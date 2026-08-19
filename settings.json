@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "ShadowDimon07.aternos.me",
+    "port": 49123,
     "version": "1.20.1",
     "try-creative": false
   },
